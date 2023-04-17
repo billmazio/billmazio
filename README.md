@@ -7,10 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vasileiosmaziotis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq7Rk7A%2F0TXCdDZI%2B9Q29yw%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+ 
 <!--
 **billmazio/billmazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
