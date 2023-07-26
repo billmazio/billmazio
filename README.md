@@ -1,7 +1,7 @@
 ###  -👋Hi I'm @billmazio
 - 🌱 I’m currently learning Spring-Boot,Html,Css
 - 📚 I plan on learning TypeScript
-Skills
+-Skills
 Java 
 Java EE
 Spring-Boot
