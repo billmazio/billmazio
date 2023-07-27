@@ -1,32 +1,41 @@
-## Hi there, I'm Bill Mazio! 👋
+### Hi there, I'm Bill Mazio 👋
 
-- 🌱 I’m currently learning Spring Boot, HTML, and CSS.
-- 📚 I plan on learning TypeScript soon!
+🌱 I’m currently learning Spring Boot, HTML, and CSS.
+📚 I plan on diving into TypeScript next!
 
-### Skills
-Java | JavaEE | Spring Boot | Spring MVC | Spring Security | Maven | Gradle | Hibernate | HTML | CSS | Bootstrap | JavaScript | SQL | MySQL | Git
+#### Skills
+- Java\JavaEE
+- Spring Boot\Spring MVC\Spring Security
+- Maven\Gradle
+- Hibernate
+- HTML\CSS\Bootstrap
+- JavaScript
+- SQL\MySQL
+- Git
 
-### About Me
-I am a passionate developer with a strong interest in web development and backend technologies. I love building applications that solve real-world problems and deliver value to users.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br>
+  <a href="https://www.linkedin.com/in/vasileiosmaziotis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq7Rk7A%2F0TXCdDZI%2B9Q29yw%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-### Portfolio
-Here are some of my notable projects:
+#### About Me
+I'm a passionate developer who loves building web applications and exploring new technologies. My journey started with Java, and I've been expanding my skillset ever since. I'm currently exploring the world of web development and enjoying every moment of it.
 
-1. [Project 1](https://github.com/billmazio/project1) - Brief description of project 1.
-2. [Project 2](https://github.com/billmazio/project2) - Brief description of project 2.
-3. [Project 3](https://github.com/billmazio/project3) - Brief description of project 3.
+#### Projects
+- [Project 1](link-to-project1): Short description of the project.
+- [Project 2](link-to-project2): Short description of the project.
+- ...
 
-### Find Me Online
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vasileiosmaziotis)
-- Personal Website: [MyWebsite.com](https://www.mywebsite.com)
+#### Get in Touch
+I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on LinkedIn or via email at your.email@example.com.
 
-### Let's Connect
-Feel free to reach out to me for any collaboration, project ideas, or just to say hello! You can connect with me via LinkedIn or drop me an email at billmazio@example.com.
+#### Check Out My Portfolio
+For a more detailed look at my projects and experiences, visit my portfolio website: [www.billmazio.dev](https://www.billmazio.dev)
 
-
- 
-<!--
-**billmazio/billmazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's code something incredible together! 🚀
 
 Here are some ideas to get you started:
 
