@@ -24,17 +24,6 @@
 #### About Me
 I'm a passionate developer who loves building web applications and exploring new technologies. My journey started with Java, and I've been expanding my skillset ever since. I'm currently exploring the world of web development and enjoying every moment of it.
 
-#### Projects
-- [Project 1](link-to-project1): Short description of the project.
-- [Project 2](link-to-project2): Short description of the project.
-- ...
-
-#### Get in Touch
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on LinkedIn or via email at your.email@example.com.
-
-#### Check Out My Portfolio
-For a more detailed look at my projects and experiences, visit my portfolio website: [www.billmazio.dev](https://www.billmazio.dev)
-
 Let's code something incredible together! 🚀
 
 Here are some ideas to get you started:
