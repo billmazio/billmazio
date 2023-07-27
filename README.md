@@ -1,14 +1,44 @@
-###  -👋Hi I'm @billmazio
-- 🌱 I’m currently learning Spring-Boot,Html,Css
-- 📚 I plan on learning TypeScript
-- <div><h3>skills</h3> Java\JavaEE  Spring-Boot\Spring-MVC\Spring-Security Maven\Gradle Hibernate HTML\CSS\Bootstrap Javascript SQL\MySQL Git </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <a href="https://www.linkedin.com/in/vasileiosmaziotis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq7Rk7A%2F0TXCdDZI%2B9Q29yw%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      
-  </a>
-</div>
+## Hi there, I'm Bill Mazio! 👋
+
+- 🌱 I’m currently learning Spring Boot, HTML, and CSS.
+- 📚 I plan on learning TypeScript soon!
+
+### Skills
+Java | JavaEE | Spring Boot | Spring MVC | Spring Security | Maven | Gradle | Hibernate | HTML | CSS | Bootstrap | JavaScript | SQL | MySQL | Git
+
+### About Me
+I am a passionate developer with a strong interest in web development and backend technologies. I love building applications that solve real-world problems and deliver value to users.
+
+### Portfolio
+Here are some of my notable projects:
+
+1. [Project 1](https://github.com/billmazio/project1) - Brief description of project 1.
+2. [Project 2](https://github.com/billmazio/project2) - Brief description of project 2.
+3. [Project 3](https://github.com/billmazio/project3) - Brief description of project 3.
+
+### Find Me Online
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vasileiosmaziotis)
+- Personal Website: [MyWebsite.com](https://www.mywebsite.com)
+
+### Let's Connect
+Feel free to reach out to me for any collaboration, project ideas, or just to say hello! You can connect with me via LinkedIn or drop me an email at billmazio@example.com.
+
+
+ 
+<!--
+**billmazio/billmazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
  
