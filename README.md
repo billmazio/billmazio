@@ -3,15 +3,9 @@
 🌱 I’m currently learning Spring Boot, HTML, and CSS.
 📚 I plan on diving into TypeScript next!
 
-<!-- #### Skills
-- Java\JavaEE
-- Spring Boot\Spring MVC\Spring Security
-- Maven\Gradle
-- Hibernate
-- HTML\CSS\Bootstrap
-- JavaScript                                                                     
-- SQL\MySQL
-- Git                                                    <div id="header" align="center">
+ #### Skills: Java\JavaEE, Spring Boot\Spring MVC\Spring Security, Maven\Gradle, Hibernate, HTML\CSS\Bootstrap, JavaScript, SQL\MySQL, Git    
+ #### Tools & IDEs: IntelliJ IDEA, Visual Studio Code, Eclipse, Postman, Gitbash 
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
   <a href="https://www.linkedin.com/in/vasileiosmaziotis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq7Rk7A%2F0TXCdDZI%2B9Q29yw%3D%3D">
@@ -19,16 +13,7 @@
   </a>
 </div>
 
-
-#### Tools & IDEs
-- IntelliJ IDEA
-- Visual Studio Code
-- Eclipse
-- Postman
-- Gitbush  -->
-
-
-
+ 
 
 #### About Me
 I'm a passionate developer who loves building web applications and exploring new technologies. My journey started with Java, and I've been expanding my skillset ever since. I'm currently exploring the world of web development and enjoying every moment of it.
