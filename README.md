@@ -13,7 +13,7 @@
 - SQL\MySQL
 - Git
 
-  #### Tools & IDEs
+#### Tools & IDEs
 - IntelliJ IDEA
 - Visual Studio Code
 - Eclipse
