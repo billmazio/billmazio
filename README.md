@@ -4,13 +4,13 @@
 📚 I plan on diving into TypeScript next!
 
 ## Skills
-- Programming:** ☕️ Java | 🌐 Java EE  
-- Web Development:** 📄 HTML | 🎨 CSS | 🥾 Bootstrap | 🟨 JavaScript  
-- Frameworks:** 🍃 Spring-Boot | 🌿 Spring-MVC | 🔒 Spring Security | 🐻 Hibernate  
-- Build & VC Tools:** 🛠️ Maven | 🏗️ Gradle | 📁 Git | 🐱 GitHub  
-- Database:** 📊 SQL | 🛢️ MySQL  
-- API Testing:** 📬 Postman  
-- IDEs:** 💡 IntelliJ IDEA | 🌘 Eclipse | 🔵 VS Code  
+- Programming: ☕️ Java | 🌐 Java EE  
+- Web Development: 📄 HTML | 🎨 CSS | 🥾 Bootstrap | 🟨 JavaScript  
+- Frameworks: 🍃 Spring-Boot | 🌿 Spring-MVC | 🔒 Spring Security | 🐻 Hibernate  
+- Build & VC Tools: 🛠️ Maven | 🏗️ Gradle | 📁 Git | 🐱 GitHub  
+- Database: 📊 SQL | 🛢️ MySQL  
+- API Testing: 📬 Postman  
+- IDEs: 💡 IntelliJ IDEA | 🌘 Eclipse | 🔵 VS Code  
 
 
 
