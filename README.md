@@ -4,12 +4,13 @@
 📚 I plan on diving into TypeScript next!
 
 SKILLS:
-- Programming: Java, Java EE
-- Web Development: HTML, CSS, Bootstrap, JavaScript
-- Frameworks: Spring-Boot, Spring-MVC, Spring Security, Hibernate
-- Tools: Maven, Gradle
-- Database: SQL, MySQL
-- Version Control: Git
+- **Programming:** Java, Java EE
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript
+- **Frameworks:** Spring-Boot, Spring-MVC, Spring Security, Hibernate
+- **Build & Version Control Tools:** Maven, Gradle, Git, GitHub
+- **Database:** SQL, MySQL
+- **API Testing:** Postman
+- **Development Environments:** IntelliJ IDEA, Eclipse, VS Code
 
 
 <div id="header" align="center">
