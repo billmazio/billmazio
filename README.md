@@ -4,6 +4,7 @@
 📚 I plan on diving into TypeScript next!
 
 SKILLS:
+<i class="fa-duotone fa-desktop"></i>
 - **Programming:** Java, Java EE
 - **Web Development:** HTML, CSS, Bootstrap, JavaScript
 - **Frameworks:** Spring-Boot, Spring-MVC, Spring Security, Hibernate
