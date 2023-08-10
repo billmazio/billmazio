@@ -3,11 +3,14 @@
 🌱 I’m currently learning Spring Boot, HTML, and CSS.
 📚 I plan on diving into TypeScript next!
 
-### Skills 🚀
-Java\JavaEE, Spring Boot\Spring MVC\Spring Security, Maven\Gradle, Hibernate, HTML\CSS\Bootstrap, JavaScript, SQL\MySQL, Git
+SKILLS:
+- Programming: Java, Java EE
+- Web Development: HTML, CSS, Bootstrap, JavaScript
+- Frameworks: Spring-Boot, Spring-MVC, Spring Security, Hibernate
+- Tools: Maven, Gradle
+- Database: SQL, MySQL
+- Version Control: Git
 
-### Tools & IDEs 🛠️
-IntelliJ IDEA, Visual Studio Code, Eclipse, Postman, Gitbash
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
