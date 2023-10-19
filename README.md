@@ -11,7 +11,8 @@
 - Database: 📊 SQL | 🛢️ MySQL  
 - API Testing: 📬 Postman  
 - IDEs: 💡 IntelliJ IDEA | 🌘 Eclipse | 🔵 VS Code
-- 🌎: **[Upwork](https://www.upwork.com/freelancers/~01f86a9f83d226c5cf?viewMode=1)**
+- 🌎: **[<span style="color: green; font-weight: bold;">Upwork</span>](https://www.upwork.com/freelancers/~01f86a9f83d226c5cf?viewMode=1)**
+
 
 
 
