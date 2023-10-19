@@ -13,7 +13,7 @@
 - IDEs: 💡 IntelliJ IDEA | 🌘 Eclipse | 🔵 VS Code  
 
 
-   - [:earth: Upwork](https://www.upwork.com/freelancers/~01f86a9f83d226c5cf?viewMode=1)
+   - [🌎: Upwork](https://www.upwork.com/freelancers/~01f86a9f83d226c5cf?viewMode=1)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
