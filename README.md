@@ -12,11 +12,9 @@
 - API Testing: 📬 Postman  
 - IDEs: 💡 IntelliJ IDEA | 🌘 Eclipse | 🔵 VS Code  
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-sCOxbzFbfI04GYjnpP5kW3VZ+G2jwmY8lWIlCuc5gvlM7U4C/ve2Oojw5Jw1V3W2y" crossorigin="anonymous">
 
+   - [:rocket: Upwork](https://www.upwork.com/freelancers/~01f86a9f83d226c5cf?viewMode=1)
 
-   - [<i class="fab fa-upwork"></i> Upwork](https://www.upwork.com/freelancers/~01f86a9f83d226c5cf?viewMode=1)
- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
