@@ -14,15 +14,6 @@ I'm a passionate learner and budding software engineer, recently graduated from 
 - Currently Learning: Advanced Spring Boot, HTML, CSS.
 - Upcoming Learning Path: Diving into TypeScript, Docker, and Kubernetes.
 
-## Connect with Me
-- [LinkedIn Profile](#your-linkedin-url)
-- [GitHub Profile](#your-github-url)
-- [Email](#your-email)
-
-## Projects Showcase
-*Here, you can list or link to some of the significant projects you have worked on, demonstrating your skills and what you have learned.*
-
-
 ## Skills
 - Programming: ☕️ Java | 🌐 Java EE  
 - Web Development: 📄 HTML | 🎨 CSS | 🥾 Bootstrap | 🟨 JavaScript  
