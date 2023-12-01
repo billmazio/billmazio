@@ -1,7 +1,27 @@
-### Hi there, I'm Bill Mazio 👋
+# Hi there, I'm Bill Mazio 👋
 
-🌱 I’m currently learning Spring Boot, HTML, and CSS.
-📚 I plan on diving into TypeScript next!
+## About Me
+I'm a passionate learner and budding software engineer, recently graduated from the Athens University of Economics and Business with a focus on software engineering. I've immersed myself in web development, mastering technologies like Spring Boot, HTML, and CSS. I'm deeply enthusiastic about building scalable and efficient web applications.
+
+## Current Endeavors
+🌱 I’m currently expanding my skill set in web development, sharpening my abilities with Spring Boot for backend development, and honing my front-end skills with HTML and CSS. 
+
+## Up Next
+🚀 My next adventure is exploring the realms of TypeScript to enrich my front-end development skills. Alongside this, I plan to venture into the world of containerization and orchestration with Docker and Kubernetes, aiming to gain proficiency in deploying and managing containerized applications.
+
+## My Journey
+- Bootcamp Graduate: Software Engineering, Athens University of Economics and Business.
+- Currently Learning: Advanced Spring Boot, HTML, CSS.
+- Upcoming Learning Path: Diving into TypeScript, Docker, and Kubernetes.
+
+## Connect with Me
+- [LinkedIn Profile](#your-linkedin-url)
+- [GitHub Profile](#your-github-url)
+- [Email](#your-email)
+
+## Projects Showcase
+*Here, you can list or link to some of the significant projects you have worked on, demonstrating your skills and what you have learned.*
+
 
 ## Skills
 - Programming: ☕️ Java | 🌐 Java EE  
@@ -25,26 +45,10 @@
   </a>
 </div>
 
-### About Me 🌟
-I'm a passionate developer who loves building web applications and exploring new technologies. My journey started with Java, and I've been expanding my skillset ever since. I'm currently exploring the world of web development and enjoying every moment of it.
 
-Let's code something incredible together! 🚀
 
 
 
 
  
-<!--
-**billmazio/billmazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
