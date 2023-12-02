@@ -13,10 +13,11 @@ Passionate software engineering graduate from Athens University of Economics and
 - 🔜 Future Focus: TypeScript, Containerization, and Orchestration.
 
 ## Skills
-- **Languages & Frameworks**: Java, Java EE, Spring Boot, Spring MVC, Spring Security, Hibernate.
+- **Languages & Frameworks**: Java, Java EE, Spring Boot, Spring MVC, Spring Security, Hibernate, basic Node.js
 - **Web Technologies**: HTML, CSS, Bootstrap, JavaScript.
 - **Tools & Databases**: Maven, Gradle, Git, GitHub, SQL, MySQL, Postman.
 - **IDEs**: IntelliJ IDEA, Eclipse, VS Code.
+- **Additional**: Basic knowledge of Swagger
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
