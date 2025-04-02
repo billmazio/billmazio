@@ -18,6 +18,7 @@ Passionate software engineering graduate from Athens University of Economics and
 - **Tools & Databases**: Maven, Gradle, Git, GitHub, SQL, MySQL, Postman.
 - **IDEs**: IntelliJ IDEA, Eclipse, VS Code.
 - **Additional**: Basic knowledge of Swagger
+- Reporting Tools: Jasper Studio (JRXML) 
 
 
 ## Current Position
