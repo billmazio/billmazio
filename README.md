@@ -8,7 +8,7 @@ Passionate software engineering graduate from Athens University of Economics and
 🚀 Next up: TypeScript, Docker, and Kubernetes.
 
 ## Journey
-- 🎓 Bootcamp Graduate in Software Engineering, Athens University of Economics and Business, Mar 2023 - Dec 2023
+- 🎓 Bootcamp Graduate in Software Engineering, Athens University of Economics and Business, Mar 2023 - Nov 2023
 - 🔍 Currently Learning: Advanced Spring Boot, HTML, CSS.
 - 🔜 Future Focus: TypeScript, Containerization, and Orchestration.
 
