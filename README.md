@@ -31,7 +31,7 @@ Passionate software engineering graduate from Athens University of Economics and
 - **Additional**: Swagger, JasperReports (JRXML)
 
 ## Current Position
-👨‍💻 Software Developer | Aspiring SDET
+👨‍💻 Software Developer in CodingPlus | Aspiring SDET
 
 ## Connect With Me
 <div align="center">
