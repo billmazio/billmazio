@@ -18,7 +18,7 @@ Passionate software engineering graduate from Athens University of Economics and
 
 ### Testing & Quality Assurance
 - **Manual Testing**: 1 year experience, test case design, exploratory testing
-- **Test Automation**: Playwright (Java), Selenium, Page Object Model, JUnit 5, TestNG
+- **Test Automation**: Playwright (Java), Page Object Model, JUnit 5, TestNG
 - **Test Tools**: Maven, AssertJ, Git, Postman
 - **Test Documentation**: Greek language automation guides (JUnit, TestNG, Playwright)
 
