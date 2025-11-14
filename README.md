@@ -1,29 +1,48 @@
 # Hi there, I'm Bill Mazio 👋
 
 ## About Me
-Passionate software engineering graduate from Athens University of Economics and Business. Skilled in Spring Boot, HTML, and CSS, with a focus on crafting efficient web applications.
+Passionate software engineering graduate from Athens University of Economics and Business. Skilled in Java development, Spring Boot, and test automation, with a focus on crafting efficient, well-tested web applications.
 
 ## What I'm Doing
-🌱 Enhancing my web development skills in Spring Boot, HTML, and CSS.  
-🚀 Next up: TypeScript, Docker, and Kubernetes.
+🌱 Building professional test automation frameworks with Playwright and Page Object Model  
+🧪 Transitioning from manual testing to SDET role with 2+ years Java development experience  
+🚀 Next up: TypeScript, Docker, and Kubernetes
 
 ## Journey
 - 🎓 Bootcamp Graduate in Software Engineering, Athens University of Economics and Business, Mar 2023 - Nov 2023
-- 🔍 Currently Learning: Advanced Spring Boot, HTML, CSS.
-- 🔜 Future Focus: TypeScript, Containerization, and Orchestration.
+- 💼 Software Developer with 2 years Java development + 1 year manual testing experience
+- 🔍 Currently Learning: Test Automation (Playwright, Selenium), Advanced Spring Boot
+- 🔜 Future Focus: TypeScript, Containerization, and Orchestration
+
+## Featured Projects
+
+### 🏢 [Warehouse Management System](https://github.com/billmazio/warehouse-springboot-api)
+Full-stack inventory management application with comprehensive test automation
+- **Backend**: Spring Boot REST API with JWT authentication
+- **Frontend**: React 18 SPA with role-based UI
+- **Testing**: 20+ automated E2E tests using Playwright + Page Object Model
+- **Tech**: Java 17, Spring Security, MySQL, React, JUnit 5, AssertJ
 
 ## Skills
-- **Languages & Frameworks**: Java, Java EE, Spring Boot, Spring MVC, Spring Security, Hibernate, Node.js, ZK (ZK Framework for building enterprise web applications).
-- **Web Technologies**: HTML, CSS, Bootstrap, JavaScript.
-- **Tools & Databases**: Maven, Gradle, Git, GitHub, SQL, MySQL, Postman.
-- **IDEs**: IntelliJ IDEA, Eclipse, VS Code.
-- **Additional**: Basic knowledge of Swagger
-- Reporting Tools: Jasper Studio (JRXML) 
 
+### Testing & Quality Assurance
+- **Manual Testing**: 1 year experience, test case design, exploratory testing
+- **Test Automation**: Playwright (Java), Selenium, Page Object Model, JUnit 5, TestNG
+- **Test Tools**: Maven, AssertJ, Git, Postman
+- **Test Documentation**: Greek language automation guides (JUnit, TestNG, Playwright)
+
+### Development
+- **Languages & Frameworks**: Java 17, Java EE, Spring Boot, Spring MVC, Spring Security, Hibernate, Node.js
+- **Web Frameworks**: ZK Framework (enterprise web applications)
+- **Web Technologies**: HTML, CSS, Bootstrap, JavaScript, React 18
+- **Tools & Databases**: Maven, Gradle, Git, GitHub, SQL, MySQL, Postman
+- **IDEs**: IntelliJ IDEA, Eclipse, VS Code
+- **Additional**: Swagger, JasperReports (JRXML)
 
 ## Current Position
-👨‍💻 Software Developer
+👨‍💻 Software Developer | Aspiring SDET
 
+## Connect With Me
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
@@ -31,3 +50,7 @@ Passionate software engineering graduate from Athens University of Economics and
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+---
+
+📫 **Looking for opportunities in**: Software Development Engineer in Test (SDET), Test Automation Engineer, QA Automation Engineer
