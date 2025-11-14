@@ -14,15 +14,6 @@ Passionate software engineering graduate from Athens University of Economics and
 - 🔍 Currently Learning: Test Automation (Playwright, Selenium), Advanced Spring Boot
 - 🔜 Future Focus: TypeScript, Containerization, and Orchestration
 
-## Featured Projects
-
-### 🏢 [Warehouse Management System](https://github.com/billmazio/warehouse-springboot-api)
-Full-stack inventory management application with comprehensive test automation
-- **Backend**: Spring Boot REST API with JWT authentication
-- **Frontend**: React 18 SPA with role-based UI
-- **Testing**: 20+ automated E2E tests using Playwright + Page Object Model
-- **Tech**: Java 17, Spring Security, MySQL, React, JUnit 5, AssertJ
-
 ## Skills
 
 ### Testing & Quality Assurance
