@@ -12,7 +12,7 @@ Passionate software engineering graduate from Athens University of Economics and
 ## Journey
 - 🎓 Bootcamp Graduate in Software Engineering, Athens University of Economics and Business, Mar 2023 - Nov 2023
 - 💼 Software Developer with 2 years Java development + 1 year manual testing experience
-- 🔍 Currently Learning: Test Automation (Playwright, Selenium), Advanced Spring Boot
+- 🔍 Currently Learning: Test Automation (Playwright), Advanced Spring Boot
 
 ## Skills
 
