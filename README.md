@@ -4,30 +4,27 @@
 Passionate software engineering graduate from Athens University of Economics and Business. Skilled in Java development, Spring Boot, and test automation, with a focus on crafting efficient, well-tested web applications.
 
 ## What I'm Doing
-🌱 Building professional test automation frameworks with Playwright and Page Object Model  
-🧪 Transitioning from manual testing to SDET role with 2+ years Java development experience  
-🚀 Next up: TypeScript, Docker, and Kubernetes
+💻 Software Developer building full-stack applications with Spring Boot, HTML, CSS, and Bootstrap
+📊 Creating dynamic business reports with JasperReports (JRXML)
+🧪 Performing manual testing including test case design and bug tracking
+🌱 Learning test automation with Playwright and Page Object Model 
 
 ## Journey
 - 🎓 Bootcamp Graduate in Software Engineering, Athens University of Economics and Business, Mar 2023 - Nov 2023
 - 💼 Software Developer with 2 years Java development + 1 year manual testing experience
 - 🔍 Currently Learning: Test Automation (Playwright, Selenium), Advanced Spring Boot
-- 🔜 Future Focus: TypeScript, Containerization, and Orchestration
 
 ## Skills
 
 ### Testing & Quality Assurance
 - **Manual Testing**: 1 year experience, test case design, exploratory testing
 - **Test Automation**: Playwright (Java), Page Object Model, JUnit 5
-- **Test Tools**: Maven, Git, Postman
 
 ### Development
-- **Languages & Frameworks**: Java 17, Java EE, Spring Boot, Spring MVC, Spring Security, Hibernate, Node.js
-- **Web Frameworks**: ZK Framework (enterprise web applications)
-- **Web Technologies**: HTML, CSS, Bootstrap, JavaScript, React 18
-- **Tools & Databases**: Maven, Gradle, Git, GitHub, SQL, MySQL, Postman
-- **IDEs**: IntelliJ IDEA, Eclipse, VS Code
-- **Additional**: Swagger, JasperReports (JRXML)
+- **Languages & Frameworks**: Java, SQL, Spring Boot, Hibernate, ZK
+- **Web Technologies**: HTML, CSS, Bootstrap, JavaScript
+- **Tools & Databases**: Maven, Gradle, Git, GitHub, MySQL, Postman, Jasper Studio (JRXML), Jira 
+- **IDEs**: IntelliJ IDEA, VS Code
 
 ## Current Position
 👨‍💻 Software Developer at  CodingPlus | Aspiring SDET
